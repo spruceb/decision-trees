@@ -1,0 +1,13 @@
+pattern,size,color,onpizza,edible
+s,l,y,y,no
+s,l,n,y,yes
+s,l,n,n,yes
+s,s,y,n,no
+s,s,n,y,yes
+s,s,n,n,no
+n,l,y,n,no
+n,l,n,y,yes
+n,l,n,n,yes
+n,s,y,y,no
+n,s,n,y,no
+n,s,n,n,no
